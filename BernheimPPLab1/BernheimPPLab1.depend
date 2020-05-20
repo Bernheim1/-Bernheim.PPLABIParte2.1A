@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1589985468 source:c:\users\bernheim\desktop\bernheimpplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+	"motos.h"
+	"trabajos.h"
+	"hardcodeMotos.h"
+	"informes.h"
+
+1589931249 c:\users\bernheim\desktop\bernheimpplab1\validaciones.h
+
+1589342481 source:c:\users\bernheim\desktop\bernheimpplab1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1589985692 source:c:\users\bernheim\desktop\bernheimpplab1\motos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"motos.h"
+
+1589931211 c:\users\bernheim\desktop\bernheimpplab1\motos.h
+
+1589986146 source:c:\users\bernheim\desktop\bernheimpplab1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"motos.h"
+	"trabajos.h"
+
+1589931235 c:\users\bernheim\desktop\bernheimpplab1\trabajos.h
+
+1589985889 c:\users\bernheim\desktop\bernheimpplab1\hardcodemotos.h
+
+1589985174 c:\users\bernheim\desktop\bernheimpplab1\informes.h
+
+1589985692 source:c:\users\bernheim\desktop\bernheimpplab1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+	"motos.h"
+	"trabajos.h"
+	"informes.h"
+
